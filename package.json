@@ -1,0 +1,15 @@
+{
+  "name": "office-cafeteria",
+  "version": "1.0.0",
+  "description": "A pseudo full-stack app for Office cafeteria. Submission for StackHack 2.0 on hackerearth.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
